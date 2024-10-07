@@ -1,8 +1,9 @@
-Web api's are hosted in Azure 
+Web api's are hosted in Azure,
 Databases are also hosted in Azure (Student Database)
 Vue js apps are hosted in vercel.com
 
-1)Notifications App: Real-time notifications using SignalR.  
+1)Notifications App: Real-time notifications using SignalR. 
+To see the functioning of notification app,open the two apps below and add a student to database,then the notification bell app will receive the message that a new student is added,click on bell icon to view the student name 
 
 Hosted links:
 
