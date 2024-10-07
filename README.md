@@ -10,6 +10,8 @@ Link for creating notifications when adding a student - https://student-app-seve
 
 Link to show real time notifications when a student is added - https://notification-bell-app.vercel.app
 
+For testing dialing use +919207383527 (because im using twilio free trial)
+
 2)Calling Toolbar App: Using Twilio.  
 
 Hosted Links:
