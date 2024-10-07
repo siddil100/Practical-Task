@@ -1,3 +1,7 @@
+Web api's are hosted in Azure 
+Databases are also hosted in Azure (Student Database)
+Vue js apps are hosted in vercel.com
+
 1)Notifications App: Real-time notifications using SignalR.  
 
 Hosted links:
